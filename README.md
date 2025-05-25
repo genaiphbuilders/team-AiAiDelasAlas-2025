@@ -116,8 +116,8 @@ BudolBlocker.AI/
 
 * **Cilla Adlawan** (Team Lead) – [GitHub](https://github.com/Chiila) | [LinkedIn](https://www.linkedin.com/in/cilla-adlawan-7b78bb2a1)
 
-* **Luis Laguardia** (Role) – [GitHub](https://github.com/luislaguardia) | [LinkedIn](http://linkedin.com/in/devluislaguardia)
+* **Luis Laguardia** (Developer) – [GitHub](https://github.com/luislaguardia) | [LinkedIn](http://linkedin.com/in/devluislaguardia)
 
-* **Iber Bonilla** (Role) – [GitHub](https://github.com/berbonila) | [LinkedIn](https://linkedin.com/in/iber-joseph-bonilla)
+* **Iber Bonilla** (Developer) – [GitHub](https://github.com/berbonila) | [LinkedIn](https://linkedin.com/in/iber-joseph-bonilla)
 
-* **Nicole Alcantara** (Role) – [GitHub](https://github.com/risingkap) | [LinkedIn](https://linkedin.com/in/alcantaranc)
+* **Nicole Alcantara** (Developer) – [GitHub](https://github.com/risingkap) | [LinkedIn](https://linkedin.com/in/alcantaranc)
